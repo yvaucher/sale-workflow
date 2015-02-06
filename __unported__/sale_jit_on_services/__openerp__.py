@@ -48,6 +48,7 @@ Contributors
     'author': 'Camptocamp',
     'depends': ['procurement'],
     'website': 'http://www.camptocamp.com',
+    'license': 'AGPL-3',
     'data': [
         'procurement_workflow.xml'
     ],

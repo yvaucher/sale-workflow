@@ -29,6 +29,7 @@
     ''',
     'author': 'Camptocamp',
     'website': 'http://www.camptocamp.com',
+    'license': 'AGPL-3',
     'depends': ['sale_stock'],
     'data': ['sale_stock_view.xml'],
     'demo': [],

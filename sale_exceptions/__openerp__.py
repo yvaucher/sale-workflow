@@ -47,6 +47,7 @@ Contributors
 """,
  'author': 'Akretion',
  'website': 'http://www.akretion.com',
+ 'license': 'AGPL-3',
  'depends': ['sale'],
  'data': ['sale_workflow.xml',
           'sale_view.xml',

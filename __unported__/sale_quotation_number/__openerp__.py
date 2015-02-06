@@ -78,6 +78,7 @@ SQ004
 """,
     'author': ['Elico Corp', 'Agile Business Group'],
     'website': 'http://www.openerp.net.cn',
+    'license': 'AGPL-3',
     'depends': ['sale'],
     'data': [
         'sale_quotation_view.xml',

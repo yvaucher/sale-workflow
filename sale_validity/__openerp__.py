@@ -25,6 +25,7 @@
  "author": "Camptocamp",
  "category": "Sales",
  "website": "http://www.camptocamp.com",
+ "license": "AGPL-3",
  "description": """
 Sale order validity date
 ========================

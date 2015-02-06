@@ -23,6 +23,7 @@
  "version": "1.1.1",
  "author": "Akretion",
  "website": "http://www.openerp.com",
+ "license": "AGPL-3",
  "category": "Generic Modules/Purchase",
  "depends": ["purchase",
              "sale_stock"],

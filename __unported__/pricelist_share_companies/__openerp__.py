@@ -67,6 +67,7 @@ Product A in company B: The cost price is 70 * currency rate
 ''',
     'author': 'Camptocamp',
     'website': 'http://camptocamp.com',
+    'license': 'AGPL-3',
     'depends': ['product', ],
     'data': [
         'pricelist_view.xml',
